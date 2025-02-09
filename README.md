@@ -35,9 +35,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaxpenuela&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=STAT" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaxpenuela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=joshuaxpenuela&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuaxpenuela&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=STAT" height="138" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuaxpenuela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="138" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=joshuaxpenuela&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="138" alt="streak graph"  />
 </div>
 
 ###
